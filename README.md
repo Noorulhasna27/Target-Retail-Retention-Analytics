@@ -30,18 +30,22 @@ Geographic Drilldown: Highlights that churn peaks in the North region ($29.0\%$)
 Funnel Flow: Traces the customer journey from baseline acquisition to stable repeat business.
 
 Page 2: Loyalty & Promotion Impact
+![Page 2 Loyalty & Promotion Impact Dashboard](Dashboard/Page2.png)
 
 The Promo Paradox: Reveals that orders without promotions average a higher basket size than orders with promotions (average spend of $411 vs. $398), exposing promotional value leakage.
 
 Points Activity: Analyzes points accumulation vs. redemptions, revealing a major redemption lag in the Elite loyalty tier (73textK earned vs. 56K redeemed) that directly correlates with their high churn.
 
 Page 3: Store/Channel Performance
+![Page 3 Store/Channel Performance Dashboard](Dashboard/Page3.png)
+
 
 Format Spend: Tracks format strengths—Supercenters lead order value ($423), while Neighborhood Markets suffer from high format churn (25.7%).
 
 Layout Age Regression: Visualizes a strong positive correlation (r = +0.84) between store opening year and customer retention. Legacy layouts opened pre-2012 average 68%text to  73% retention, while modern smart-layouts built post-2018 reach up to 94%.
 
 Page 4: Segmentation & Customer Lifetime Value (CLV)
+![Page 4 Segmentation & Customer Lifetime Value Dashboard](Dashboard/Page4.png)
 
 High-Value Hotspots: Exposes the Elite North ($638 average CLV) and Premium North ($590 average CLV) segments as Target's most critical customer cohorts.
 
