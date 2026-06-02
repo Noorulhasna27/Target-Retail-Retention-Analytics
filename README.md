@@ -20,7 +20,7 @@ Formulate Actionable Strategies: Translate data-driven insights into corporate i
 The report is divided into four distinct pages, linked together by dynamic, synchronized slicers (Region, Channel, Income Level, and Loyalty Tier):
 
 Page 1: Overview KPIs
-Page1.png
+![Page 1 Overview KPIs Dashboard](Dashboard/Page1.png)
 
 
 Core Baseline: Establishes Target’s baseline Customer Retention Rate (75.50%) and Churn Rate ($24.50%) out of 200 distinct active IDs.
